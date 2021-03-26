@@ -83,12 +83,12 @@ author:
   name             : "Thomas Debarre"
   avatar           : "profile.png"
   bio              : "PhD student"
-  location         : "Lausanne"
+  location         : "Lausanne, Switzerland"
   employer         :
   googlescholar    : "https://scholar.google.ch/citations?user=6Xg_PtYAAAAJ&hl=fr&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  github           : "academicpages"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Thomas-Debarre"
+  github           : ""
 
 
 
