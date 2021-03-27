@@ -26,7 +26,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
@@ -38,22 +38,47 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+Preprints
+--------------
+<ul>
+{% for post in site.publications %}
+	{% if post.category contains 'preprint' %}
+		{% include archive-single-cv.html %}
+	{% endif %}
+{% endfor %}
+</ul>
+
+Journal Papers
+--------------
+<ul>
+{% for post in site.publications %}
+	{% if post.category contains 'journal' %}
+		{% include archive-single-cv.html %}
+	{% endif %}
+{% endfor %}
+</ul>
+
+Conference Proceedings
+--------------
+<ul>
+{% for post in site.publications %}
+	{% if post.category contains 'proceedings' %}
+		{% include archive-single-cv.html %}
+	{% endif %}
+  </ul>
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
