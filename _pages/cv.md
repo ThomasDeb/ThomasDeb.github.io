@@ -65,6 +65,7 @@ Conference Proceedings
 	{% if post.category contains 'proceedings' %}
 		{% include archive-single-cv.html %}
 	{% endif %}
+{% endfor %}
   </ul>
 
 Talks
