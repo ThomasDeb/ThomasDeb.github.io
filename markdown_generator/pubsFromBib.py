@@ -28,11 +28,12 @@ import re
 publist = {
     "preprints": {
         "file": "preprints.bib",
-        "venuekey": "arxiv",
+        "venuekey": "journal",
         "venue-pretext": "",
         "collection": {"name": "publications",
                        "permalink": "/publications/"}
-    }
+    },
+
     "proceedings": {
         "file" : "proceedings.bib",
         "venuekey": "booktitle",
