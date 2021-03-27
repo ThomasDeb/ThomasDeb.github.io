@@ -51,7 +51,11 @@ html_escape_table = {
 
 def html_escape(text):
     """Produce entities within text."""
-    return "".join(html_escape_table.get(c,c) for c in text)
+    s = "".join(html_escape_table.get(c, c) for c in text)
+    s = s.replace("&amp;amp;", "&amp;")
+    s = s.replace("&amp;quot;", "&quot;")
+    s = s.replace("&amp;apos;", "&apos;")
+    return s
 
 
 for pubsource in publist:
