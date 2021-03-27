@@ -1,7 +1,7 @@
 ---
 title: "B-spline-based Exact Discretization of Continuous-Domain Inverse Problems with Generalized TV Regularization"
 collection: publications
-permalink: /publication/b-spline
+permalink: /publications/b-spline
 excerpt: ''
 date: 2019-03-05
 venue: 'IEEE Transactions on Information Theory'
