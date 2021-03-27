@@ -122,7 +122,9 @@ for pubsource in publist:
             md += """collection: """ +  publist[pubsource]["collection"]["name"]
 
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
-            
+
+            md += """\ncategory: """ + pubsource
+
             note = False
             if "note" in b.keys():
                 if len(str(b["note"])) > 5:

@@ -19,7 +19,7 @@ Preprints
 	{% endif %}
 {% endfor %}
 
-Journal papers
+Journal Papers
 --------------
 {% for post in site.publications %}
 	{% if post.category contains 'journal' %}
@@ -27,7 +27,7 @@ Journal papers
 	{% endif %}
 {% endfor %}
 
-Proceedings
+Conference Proceedings
 --------------
 {% for post in site.publications %}
 	{% if post.category contains 'proceedings' %}

@@ -2,6 +2,7 @@
 title: "Solving Continuous-Domain Problems Exactly with Multiresolution B-Splines"
 collection: publications
 permalink: /publications/2019-05-01-Solving-Continuous-Domain-Problems-Exactly-with-Multiresolution-B-Splines
+category: proceedings
 date: 2019-05-01
 venue: 'Proceedings of the Forty-Fourth IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP&apos;19)'
 paperurl: 'https://ieeexplore.ieee.org/document/8683214'
