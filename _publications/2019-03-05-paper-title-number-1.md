@@ -1,0 +1,16 @@
+---
+title: "B-Spline-Based Exact Discretization of Continuous-Domain Inverse Problems with Generalized TV Regularization"
+collection: publications
+permalink: /publications/2019-03-05-paper-title-number-1
+excerpt: 'This paper blablabla'
+date: 2019-03-05
+venue: 'IEEE Transactions on Information Theory'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8660432'
+citation: 'Thomas Debarre, Julien Fageot, Harshit Gupta, and Michael Unser (2019). &quot;B-Spline-Based Exact Discretization of Continuous-Domain Inverse Problems with Generalized TV Regularization.&quot; <i>IEEE Transactions on Information Theory</i>.'
+---
+
+<a href='https://ieeexplore.ieee.org/abstract/document/8660432'>Download paper here</a>
+
+This paper blablabla
+
+Recommended citation: Thomas Debarre, Julien Fageot, Harshit Gupta, and Michael Unser (2019). "B-Spline-Based Exact Discretization of Continuous-Domain Inverse Problems with Generalized TV Regularization." <i>IEEE Transactions on Information Theory</i>.
