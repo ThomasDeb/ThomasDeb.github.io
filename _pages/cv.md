@@ -50,11 +50,6 @@ Conference Proceedings
 {% endfor %}
   </ul>
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 Teaching
 ======
@@ -64,6 +59,6 @@ Teaching
 
 Go Achievements
 ======
-* French national go champion: 2010-2014, 2018 (5 times)
+* French national go champion: 2010-2013, 2018 (5 times)
 * French representative at the World Amateur Go Championships: 2009-2011, 2013 (best result: 4th place)
 * European team champion (with French team): 2015, 2019, 2020
