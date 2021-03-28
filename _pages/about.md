@@ -12,7 +12,7 @@ Since November 2017, I am pursuing a PhD degree under Prof. [Michael Unser](http
 
 Previously, I received an M.Sc. in [Mathematics, Vision and Learning](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/) at ENS Paris-Saclay (2016-2017), and an M.Sc. in Engineering (applied mathematics major) at [Mines ParisTech](https://www.minesparis.psl.eu) (2013-2016).
 
-Research interest
+Research interests
 ======
 I am interested in theoretical and algorithmic aspects of inverse problems in signal processing with sparsity priors. More specifically, I study inverse problems that are formulated in the continuous domain, and develop spline-based discretization methods to solve them algorithmically. Keywords:
 * continuous-domain inverse problems;
