@@ -11,30 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017-2022 (expected): Ph.D in Electrical Engineering at the [Biomedical Imaging Group](http://bigwww.epfl.ch/), Ecole Polytechnique Fédérale de Lausanne, Switzerland
+* 2016-2017: M.Sc. in [Mathematics, Vision and Learning](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/), ENS Paris-Saclay, France
+* 2013-2016: M.Sc. in Engineering (major in Applied Mathematics), [Mines ParisTech](https://www.minesparis.psl.eu), France
+* 2011-2013: Louis-le-Grand preparatory school for "Grandes Ecoles" (Math and Physics section), Paris, France
 
 Publications
 ======
@@ -81,6 +62,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
+Go Achievements
 ======
-* Currently signed in to 43 different slack teams
+* French national go champion: 2010-2014, 2018 (5 times)
+* French representative at the World Amateur Go Championships: 2009-2011, 2013 (best result: 4th place)
+* European team champion (with French team): 2015, 2019, 2020

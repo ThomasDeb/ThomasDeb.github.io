@@ -9,11 +9,13 @@ redirect_from:
 ---
 Short Bio
 ======
-Since November 2017, I am pursuing a PhD degree under Prof. Michael Unser and Dr. Julien Fageot at the Biomedical Imaging Group (BIG), Ecole Polytechnique Fédérale de Lausanne, Switzerland.
+Since November 2017, I am pursuing a PhD degree under Prof. [Michael Unser](http://bigwww.epfl.ch/unser/) and Dr. [Julien Fageot](http://bigwww.epfl.ch/fageot/index.html) at the [Biomedical Imaging Group](http://bigwww.epfl.ch/) (BIG), Ecole Polytechnique Fédérale de Lausanne, Switzerland.
+
+Previously, I received an M.Sc. in [Mathematics, Vision and Learning](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/) at ENS Paris-Saclay (2016-2017), and an M.Sc. in Engineering (applied mathematics major) at [Mines ParisTech](https://www.minesparis.psl.eu) (2013-2016).
 
 Research interest
 ======
-I am interested in theoretical and algorithmic aspects of inverse problems in signal processing. I study continuous-domain signal reconstruction models, and develop discretization methods that preserve the properties of the continuous model and that can be solved algorithmically. Keywords:
+I am interested in theoretical and algorithmic aspects of inverse problems in signal processing with sparsity priors. More specifically, I study inverse problems that are formulated in the continuous domain, and develop spline-based discretization methods to solve them algorithmically. Keywords:
 * continuous-domain inverse problems;
 * sparsity;
 * splines;
