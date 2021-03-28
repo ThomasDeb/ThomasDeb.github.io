@@ -13,7 +13,7 @@ author_profile: true
 
 Preprints
 --------------
-{% for post in site.publications reversed%}
+{% for post in site.publications%}
 	{% if post.category contains 'preprint' %}
 		{% include archive-single.html %}
 	{% endif %}
@@ -21,7 +21,7 @@ Preprints
 
 Journal Papers
 --------------
-{% for post in site.publications reversed%}
+{% for post in site.publications%}
 	{% if post.category contains 'journal' %}
 		{% include archive-single.html %}
 	{% endif %}
@@ -29,7 +29,7 @@ Journal Papers
 
 Conference Proceedings
 --------------
-{% for post in site.publications reversed%}
+{% for post in site.publications%}
 	{% if post.category contains 'proceedings' %}
 		{% include archive-single.html %}
 	{% endif %}
