@@ -42,7 +42,7 @@ Publications
 Preprints
 --------------
 <ul>
-{% for post in site.publications %}
+{% for post in site.publications reversed%}
 	{% if post.category contains 'preprint' %}
 		{% include archive-single-cv.html %}
 	{% endif %}
@@ -52,7 +52,7 @@ Preprints
 Journal Papers
 --------------
 <ul>
-{% for post in site.publications %}
+{% for post in site.publications reversed%}
 	{% if post.category contains 'journal' %}
 		{% include archive-single-cv.html %}
 	{% endif %}
@@ -62,7 +62,7 @@ Journal Papers
 Conference Proceedings
 --------------
 <ul>
-{% for post in site.publications %}
+{% for post in site.publications reversed%}
 	{% if post.category contains 'proceedings' %}
 		{% include archive-single-cv.html %}
 	{% endif %}
