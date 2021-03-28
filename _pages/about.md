@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Thomas Debarre"
+title: "Short Bio"
 excerpt: "PhD student at the Biomedical Imaging Group at EPFL, Lausanne, Switzerland."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-Short Bio
-======
+
 Since November 2017, I am pursuing a PhD degree under Prof. [Michael Unser](http://bigwww.epfl.ch/unser/) and Dr. [Julien Fageot](http://bigwww.epfl.ch/fageot/index.html) at the [Biomedical Imaging Group](http://bigwww.epfl.ch/) (BIG), Ecole Polytechnique Fédérale de Lausanne, Switzerland.
 
 Previously, I received an M.Sc. in [Mathematics, Vision and Learning](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/) at ENS Paris-Saclay (2016-2017), and an M.Sc. in Engineering (applied mathematics major) at [Mines ParisTech](https://www.minesparis.psl.eu) (2013-2016).
